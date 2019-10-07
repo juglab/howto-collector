@@ -1,0 +1,6 @@
+net.imglib:imglib2
+io.scif:scifio
+org.scijava:scijava-table
+org.scijava:scijava-ops
+sc.fiji:bigdataviewer-vistools
+sc.fiji:fiji-howto
